@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gvgohil232
-- 👀 I’m interested in Web Development with Wordpress, React JS
+- 👀 I’m interested in Web Development with Wordpress, Next JS, React JS
 - 🌱 I’m currently learning React JS Advanced
 - 💞️ I’m looking to collaborate on Wordpress and React JS
 - 📫 How to reach me via mail:gvgohil232@gmail.com, skype:gvgohil232
