@@ -26,8 +26,6 @@
 ### 1. AI Clinical Trial Matching Platform
 **Stack:** `Node.js` • `Express` • `PostgreSQL` • `Knex.js` • `React` • `Vite` • `AWS S3/SQS` • `Python AI`
 
-![AI Clinical Trial Matching Platform](./assets/clinical-trial-ui.png)
-
 * **High-Volume Data Sync:** Built an automated ETL pipeline syncing **600,000+ clinical trial records** from the ClinicalTrials.gov API v2 into PostgreSQL with checkpointed sequential batching for reliable, low-overhead updates.
 * **Secure Document Ingestion:** Implemented direct-to-cloud medical document uploads via **AWS S3 presigned URLs**, queuing background processing through AWS SQS and Python AI microservice endpoints for automated eligibility extraction.
 * **Patient Portal & Packet Generation:** Engineered a responsive patient matching portal (React, Vite, Tailwind CSS, React Router v7) featuring dynamic filtering and server-side PDF summary packet generation for physician consultations.
@@ -38,7 +36,7 @@
 ### 2. Electric House Omnichannel Commerce Ecosystem
 **Stack:** `Magento 2` • `PWA Studio` • `Adobe App Builder (I/O)` • `React POS` • `React Native` • `GraphQL`
 
-![Electric House Omnichannel Storefront](./electric-house-ui.jpg)
+![Electric House Omnichannel Storefront](./electric-house-ui.png)
 
 * **Headless Storefront & Quick Commerce:** Architected a high-speed Magento 2 & PWA Studio Venia storefront featuring a dedicated **Quick Commerce mode**, custom GraphQL resolvers, UPWARD routing, and GTM analytics—built strictly with upgrade-safe Targetables and interceptors.
 * **Cloud-Native Admin Extensions:** Developed and deployed custom **Adobe App Builder (Admin UI SDK)** microservices on Adobe I/O Runtime to extend Magento backend workflows without core code modifications.
