@@ -38,7 +38,7 @@
 ### 2. Electric House Omnichannel Commerce Ecosystem
 **Stack:** `Magento 2` • `PWA Studio` • `Adobe App Builder (I/O)` • `React POS` • `React Native` • `GraphQL`
 
-![Electric House Omnichannel](./assets/electric-house-ui.png)
+![Electric House Omnichannel Storefront](./electric-house-ui.jpg)
 
 * **Headless Storefront & Quick Commerce:** Architected a high-speed Magento 2 & PWA Studio Venia storefront featuring a dedicated **Quick Commerce mode**, custom GraphQL resolvers, UPWARD routing, and GTM analytics—built strictly with upgrade-safe Targetables and interceptors.
 * **Cloud-Native Admin Extensions:** Developed and deployed custom **Adobe App Builder (Admin UI SDK)** microservices on Adobe I/O Runtime to extend Magento backend workflows without core code modifications.
@@ -50,7 +50,9 @@
 ### 3. ElectricBuy Solar Care — AMC & Field Service Platform
 **Stack:** `Node.js` • `MySQL` • `React` • `Vite` • `React Native (Expo)` • `Razorpay` • `Firebase FCM`
 
-![ElectricBuy Solar Care](./assets/electricbuy-solar-ui.png)
+![ElectricBuy](./electricbuy-ui.png)
+
+![ElectricBuy Solar Care](./solar-care-ui.png)
 
 * **End-to-End Service Ecosystem:** Architected a unified platform connecting solar asset owners, operations managers, and field technicians across a **Node.js + MySQL** API, a **React + Vite** admin dashboard, and a **React Native Expo** mobile app.
 * **Automated Subscription & Billing Engine:** Integrated **Razorpay payment links and idempotent webhooks** to automate Annual Maintenance Contract (AMC) renewals, tiered plan upgrades, and invoice reconciliation.
@@ -62,7 +64,7 @@
 ### 4. Zone-Based Hyperlocal Pharmacy Platform
 **Stack:** `Next.js` • `Node.js` • `PostgreSQL / PostGIS` • `Stripe` • `Tailwind CSS`
 
-![Zone-Based Pharmacy Platform](./assets/pharmacy-zone-ui.png)
+![Zone-Based Pharmacy Platform](./PharmacyShop-UI.png)
 
 * **Geofenced Zone Routing Engine:** Engineered polygon and radius-based delivery zone resolution so customers automatically view real-time inventory, pricing, and ETA windows specific to their nearest fulfilling pharmacy hub.
 * **Compliance-First Checkout Flow:** Built an intuitive Next.js storefront supporting prescription uploads, OTC/Rx cart validation, and automated pharmacist verification gates prior to order dispatch.
